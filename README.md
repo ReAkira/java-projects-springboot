@@ -1,2 +1,2 @@
 # java-projects-springboot
-Repositório de Java-SpringBoot
+Projeto feito com o framework SpringBoot com as funções CRUD
